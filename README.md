@@ -20,6 +20,13 @@
 
 - Now check for detailed columns wise discussion
 
+- Questions can asked to the dataset:
+
+1. Number of Terrorist Attacks vs Number of Dead/Injured people From 1970 to 2017
+2. Analyse the Weapon types and Damage
+3. Top countries with the highest Number of Dead/Injured people in the world
+4.  Top 10 Attacked Countries and Top 10 Targeted Nationalities
+
 - Columns Names: 
 
     * ID
@@ -181,7 +188,7 @@ Install
     
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+We have learned about terrorim rate in global wise.
 
   
 ## 🛠 Skills
@@ -191,12 +198,6 @@ Power BI, Python,
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://welcometocodelife.blogspot.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinidhi-g-ba60b1192/)
-[![YOUTUBE](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_(2017).svg/180px-YouTube_social_white_square_(2017).svg.png)](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-  
-## Appendix
-
-Any additional information goes here
 
   
 ## License
