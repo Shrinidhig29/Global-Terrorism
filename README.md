@@ -8,6 +8,7 @@
 * Tried finding out the HOT zone of TERRORISM
 * What are the security issues and insights I can drive from EDA?
 
+
 ## Roadmap
 
 - Install Power BI
@@ -26,6 +27,13 @@
 2. Analyse the Weapon types and Damage
 3. Top countries with the highest Number of Dead/Injured people in the world
 4.  Top 10 Attacked Countries and Top 10 Targeted Nationalities
+
+## Demo
+
+# Click the link: https://www.youtube.com/watch?v=Y3x7rF6pW7w&t=428s
+
+
+https://user-images.githubusercontent.com/65757568/137757971-3f4ec645-168a-476c-9337-51dafaab2483.mp4
 
 - Columns Names: 
 
@@ -167,10 +175,7 @@
 
 * STARTED WITH EDA
 * CHECK OUT THE CODE AND DASHBOARD
-## Demo
 
-![Click Here](https://www.youtube.com/watch?v=6K3Y_PAH0mU)]
-  
 ## Authors
 
 - [@shrinidhig](https://github.com/Shrinidhig29)
